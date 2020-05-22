@@ -1,0 +1,998 @@
+,first_name,middle_name,last_name,Full_name,Relative_name,Page_number
+0,meera,mohan,bharvani,meera mohan bharvani,mohan bharavani,2
+1,brijaya,n,kalro,brijaya n kalro,narain das kalro,2
+2,cg,arun,kumar,cg arun kumar,c g gunashekarn,2
+3,henna,na,kalro,henna kalro,brijay n kalro,2
+4,yash,b,kalro,yash b kalro,brijay n kalro,2
+5,indira,na,shambhu,indira shambhu,shambhu s,2
+6,nalini,na,ramesh,nalini ramesh,y h ramesh,2
+7,lakshmi,na,mukund,lakshmi mukund,mukunda y s,2
+8,a,na,arockianathan,a arockianathan,anthony,2
+9,lawrance,na,rodrigues,lawrance rodrigues,isidore rodrigues,2
+10,c,a,joseph,c a joseph,arul das,2
+11,yandayya,na,na,yandayya,tadela,2
+12,aditya,na,sondhi,aditya sondhi,ravi sondhi,2
+13,aditya,na,mendonca,aditya mendonca,allen mendonca,2
+14,hs,na,srinivas,hs srinivas,hudali subbanna,2
+15,venkatamma,na,na,venkatamma,ramu,2
+16,siji,k,thomas,siji k thomas,thomas,2
+17,shivaram,na,r,shivaram r,ramu,2
+18,ramesh,na,r,ramesh r,ramu,2
+19,nageshewari,na,na,nageshewari,shivaram,2
+20,mythrai,na,na,mythrai,b v ramalinga setty,2
+21,binith,kumar,yadav,binith kumar yadav,shivashankar yadav,2
+22,sudakar,na,na,sudakar,balaram,2
+23,srinivas,na,na,srinivas,natraj chodral,2
+24,jayashree,na,na,jayashree,srinivas,2
+25,samikshe,na,na,samikshe,vijayabhaskar,2
+26,jayanthi,na,srinivasan,jayanthi srinivasan,v srinivasan,2
+27,sandhya,na,janardhanan,sandhya janardhanan,s janardhanan,2
+28,na,na,na,d wences laus windsor,m dasarathan windsor,2
+29,christina,na,nirmala,christina nirmala,d wences laus,2
+30,na,na,na,mrs sunita rajesh kara,rajesh karna,3
+31,shiralee,na,karna,shiralee karna,mr rajesh karna,3
+32,rohan,na,karna,rohan karna,rajesh karna,3
+33,pk,na,arora,pk arora,l r arora,3
+34,salina,na,vincent,salina vincent,vincent,3
+35,archana,na,angadi,archana angadi,mallikarjun angadi,3
+36,shankara,na,reddy,shankara reddy,venkateshwara reddy,3
+37,rahul,v,shetty,rahul v shetty,vuayabhaskar,3
+38,malathi,na,ramanna,malathi ramanna,late raja,3
+39,nirupa,na,ramanna,nirupa ramanna,late raja ramanna,3
+40,prasanna,na,shrinivasan,prasanna shrinivasan,vasudevan,3
+41,krishna,na,kalro,krishna kalro,brijay n kalro,3
+42,rajendra,na,desai,rajendra desai,chandra shekar,3
+43,sunitha,na,desai,sunitha desai,rajendra desai,3
+44,saddam,hussain,gaddi,saddam hussain gaddi,hajeem sab gaddi,3
+45,pushpa,na,badami,pushpa badami,umesh badani,3
+46,vinod,na,bs,vinod bs,sathyakeerthi,3
+47,kiron,p,g,kiron p g,p g gopala,3
+48,rajini,na,maney,rajini maney,arun maney,3
+49,anita,na,kiron,anita kiron,kiron p g,3
+50,shweta,na,maney,shweta maney,arun maney,3
+51,sridhar,na,m,sridhar m,murugha,3
+52,nehesh,k,poll,nehesh k poll,kiron p g,3
+53,charles,na,na,charles,dass,3
+54,jesu,na,das,jesu das,kolande swamy,3
+55,nirmala,na,na,nirmala,jesu das,3
+56,severine,na,dsouza,severine dsouza,robert,3
+57,msusheela,na,na,msusheela,my karanth,3
+58,m,na,shashidhar,m shashidhar,my karanth,3
+59,mw,na,muralidhar,mw muralidhar,my karanth,3
+60,m,na,nagaraju,m nagaraju,m y karanth,4
+61,prabha,na,na,prabha,m muralidhar,4
+62,sandya,na,na,sandya,m nagaraju,4
+63,vijaya,na,lakshmi,vijaya lakshmi,suresh,4
+64,ram,na,shivnani,ram shivnani,khenchand,4
+65,tahilram,na,mansukhani,tahilram mansukhani,tek chand,4
+66,bindu,na,na,bindu,ramesh,4
+67,ramesh,na,na,ramesh,arjun das,4
+68,muthukrishnan,na,na,muthukrishnan,rajarathnam m,4
+69,sowmya,na,naveen,sowmya naveen,naveen kumar,4
+70,lekha,na,subaiya,lekha subaiya,subaiya pandawda,4
+71,vinod,kishin,chand,vinod kishin chand,kishan chand,4
+72,sunitha,na,devi,sunitha devi,manoj kumar,4
+73,rithika,na,na,rithika,rajesh,4
+74,narain,vikash,rao,narain vikash rao,narayanarao r,4
+75,christina,na,j,christina j,a joseph,4
+76,prem,na,kumar,prem kumar,manoj kumar,4
+77,mikhail,na,sen,mikhail sen,ashish chandra,4
+78,dheeraj,na,nagendra,dheeraj nagendra,n s nagendra,4
+79,evania,chrisine,navya,evania chrisine navya,navin kumar m,4
+80,dipendra,kumar,bist,dipendra kumar bist,khagendra kumar,4
+81,githa,devi,bist,githa devi bist,dipendra kumar,4
+82,ela,manya,navin,ela manya navin,navin kumar,4
+83,anitha,vijay,kumar,anitha vijay kumar,vijay kumar,4
+84,deepa,na,jayakumar,deepa jayakumar,jayakumar,5
+85,velli,chinna,swamy,velli chinna swamy,china swamy,5
+86,na,na,na,voilet david son chinna mellala,late s david son,5
+87,na,na,na,j mohan john farrar,j f jebamoney,5
+88,mary,na,farrar,mary farrar,j mohan john farrar,5
+89,arthur,isacc,newton,arthur isacc newton,ba david,5
+90,deborah,l,augustine,deborah l augustine,augustine,5
+91,shamala,merlin,swamydas,shamala merlin swamydas,late s david son,5
+92,sunil,na,moses,sunil moses,moses dindavar,5
+93,arul,raj,d,arul raj d,dhavamani raj,5
+94,mohan,na,v,mohan v,veerappan,5
+95,govindaraju,na,h,govindaraju h,hanumaian,5
+96,na,na,na,s naveen kumar swamy das,late s david son,5
+97,kiran,kumar,perumala,kiran kumar perumala,suseelamma velpuri,5
+98,na,na,na,c raja chinna swamy,chinna swamy,5
+99,immanuel,jonathan,farrar,immanuel jonathan farrar,j mohan john farrar,5
+100,praveen,na,kumar,praveen kumar,prathap km,5
+101,hannah,na,jeyasingh,hannah jeyasingh,j asir jeyasingh,5
+102,shilpa,s,moses,shilpa s moses,sunil moses d,5
+103,na,na,na,prasanna kumari k m,k m pratap,5
+104,davis,na,stephen,davis stephen,david arthur,5
+105,nikitha,na,charles,nikitha charles,emmanuel,5
+106,nico,na,demus,nico demus,augustin,5
+107,rineetha,na,charles,rineetha charles,emmanuel,5
+108,roshini,jerusa,roberts,roshini jerusa roberts,n roberts,5
+109,vineeta,na,lal,vineeta lal,navin thangiah,5
+110,navin,anugraham,thangiah,navin anugraham thangiah,vineeta lal,5
+111,vikas,na,sharma,vikas sharma,late kanhaiyalal,6
+112,mohan,rao,gogineni,mohan rao gogineni,venkata subba naidu,6
+113,lalita,na,srimurthy,lalita srimurthy,k s srimurthy,6
+114,kadaba,ramanna,srimurthy,kadaba ramanna srimurthy,dr k s ramanna,6
+115,vasudevan,na,na,vasudevan,ramaswamy,6
+116,dr,na,shwethambari,dr shwethambari,prasanna,6
+117,padmavathi,na,na,padmavathi,mohan rao gogineni,6
+118,disha,na,bhandari,disha bhandari,aditya bhandari,6
+119,ayesha,na,eram,ayesha eram,zafferulla khan,6
+120,c,mohan,bopiah,c mohan bopiah,c d bopiah,6
+121,nina,na,bopiah,nina bopiah,c mohan bopiah,6
+122,zaffer,ulla,khan,zaffer ulla khan,late faiz mohammed,6
+123,urusa,na,zaffer,urusa zaffer,zafferulla khan,6
+124,suryanarayana,na,tiruvuri,suryanarayana tiruvuri,subramanya,6
+125,ravi,na,na,ravi,suryanarayan,6
+126,john,na,curtis,john curtis,laurence clive,6
+127,nsrinivas,na,na,nsrinivas,narayanaswamy,6
+128,vuayalakshmi,raju,r,vuayalakshmi raju r,late ramachandra,6
+129,chinnan,na,das,chinnan das,naidav das,6
+130,suguna,na,srinivas,suguna srinivas,n srinivas,6
+131,vidula,chopra,rastogi,vidula chopra rastogi,rajeev rastogi,6
+132,shubh,na,gangully,shubh gangully,sukumar gangully,6
+133,na,na,na,suresh babu s g,gopalsetty,6
+134,namitha,suresh,babu,namitha suresh babu,suresh babu s g,6
+135,nidhi,na,na,nidhi,joven,7
+136,syed,na,afsar,syed afsar,syed basheer,7
+137,chandu,na,khadka,chandu khadka,kalak khadka,7
+138,rajendra,b,khadaka,rajendra b khadaka,prem bahaddur,7
+139,harish,na,bernard,harish bernard,charles,7
+140,rimon,na,ganapathy,rimon ganapathy,merianda carumbaiah,7
+141,akshai,na,sarin,akshai sarin,sanjiv sarin,7
+142,binu,na,bhaskar,binu bhaskar,bhaskaran pillai,7
+143,monika,na,tomar,monika tomar,jitender singh tomar,7
+144,shera,na,mukherjee,shera mukherjee,aveek,7
+145,manadevi,na,khadka,manadevi khadka,chandu khadka,7
+146,mn,na,seshadri,mn seshadri,late m s nagabhusha,7
+147,rohini,na,seshadri,rohini seshadri,mn seshadri,7
+148,hemang,na,shah,hemang shah,jitendra shah,7
+149,shilpa,na,shah,shilpa shah,hemang shah,7
+150,rajeetaiyer,na,na,rajeetaiyer,rajagopal,7
+151,vishnu,nair,v,vishnu nair v,s vijayakumar,7
+152,ashwini,na,na,ashwini,anil kumar,7
+153,anil,na,kumar,anil kumar,siddappa,7
+154,sathish,na,na,sathish,muniyappa,7
+155,pavithra,na,na,pavithra,sathish,7
+156,krishna,na,na,krishna,raju shetty,7
+157,bhagirathi,na,rathi,bhagirathi rathi,nanda kishore rathi,7
+158,azimunnisa,na,na,azimunnisa,mohammed husen,7
+159,naushad,na,alam,naushad alam,noorain miyaa,7
+160,rohini,na,muthanna,rohini muthanna,k a muthanna,7
+161,ajt,na,muthanna,ajt muthanna,k a muthanna,7
+162,rajagopal,narain,rao,rajagopal narain rao,s rajagopal rao,8
+163,anita,na,rao,anita rao,r narain rao,8
+164,kazima,na,khatoon,kazima khatoon,mirza fazil ali,8
+165,vimi,na,shivnani,vimi shivnani,ram shivnfni,8
+166,n,na,narayan,n narayan,nanjundappa,8
+167,r,na,preethi,r preethi,venkatamma,8
+168,meenakshi,na,p,meenakshi p,karthigeyan,8
+169,stella,faria,m,stella faria m,peter j faria,8
+170,s,govinda,rao,s govinda rao,seetharamma rao,8
+171,devid,na,raria,devid raria,peter j faria,8
+172,ravi,na,narayan,ravi narayan,byrappa narayan,8
+173,madhuri,na,upadhya,madhuri upadhya,murlidhar,8
+174,sathish,na,na,sathish,g manik chand,8
+175,kannaya,na,devnani,kannaya devnani,vashdev,8
+176,sitaram,na,sah,sitaram sah,bihari sah,8
+177,tojy,na,joseph,tojy joseph,joseph,8
+178,b,mange,naick,b mange naick,b rama naick,8
+179,b,na,jayamma,b jayamma,b mange naick,8
+180,p,na,krishnappa,p krishnappa,p bojanna,8
+181,p,na,rathnamma,p rathnamma,p krishnappa,8
+182,ram,na,rao,ram rao,venkatesh rao,8
+183,radhika,na,na,radhika,ram rao,8
+184,kallesh,na,naik,kallesh naik,swamy naik,8
+185,p,na,sinu,p sinu,p krishnappa,8
+186,santhosh,na,patil,santhosh patil,anna gowda,8
+187,shantha,na,na,shantha,santhosh patil,8
+188,vikram,na,mahajan,vikram mahajan,rajpal mahajan,8
+189,krishna,na,bai,krishna bai,late lakshman,9
+190,na,na,na,suresh babu s g,gopal setty,9
+191,sunil,na,patravahi,sunil patravahi,manohar,9
+192,sunita,na,patravali,sunita patravali,sunil patravali,9
+193,sandra,na,ignatius,sandra ignatius,rabindra singh,9
+194,rabindar,na,singh,rabindar singh,lakshman singh,9
+195,anjana,na,kothamachu,anjana kothamachu,subodh,9
+196,varun,na,patravani,varun patravani,sunil patravani,9
+197,anish,kumar,singh,anish kumar singh,sinha ak n,9
+198,devendra,n,sapra,devendra n sapra,prannath sapra,9
+199,rita,na,sapra,rita sapra,devendra sapra,9
+200,medagiridhara,na,na,medagiridhara,giridhar srinivasa,9
+201,lalehand,na,kamat,lalehand kamat,maheshwar kamat,9
+202,nitish,mohan,mankani,nitish mohan mankani,mohan mankani,9
+203,l,na,chaturbhuj,l chaturbhuj,lunidaram,9
+204,c,na,maya,c maya,l chaturbhuj,9
+205,c,na,bansi,c bansi,l chaturbhuj,9
+206,mallikarjun,na,angadi,mallikarjun angadi,siddappa,9
+207,na,na,na,chandrashekhar raju k c,chengam raju,9
+208,rathna,na,ashok,rathna ashok,ashok r,9
+209,na,na,na,sudha chandrashekhar k c,chandra shekar,9
+210,kunal,na,ashok,kunal ashok,ashok,10
+211,naveen,raju,mc,naveen raju mc,chandrashekhar raju,10
+212,rajeev,na,singh,rajeev singh,mp singh,10
+213,sanjeev,na,singh,sanjeev singh,dr mahanand singh,10
+214,shubha,na,singh,shubha singh,rajeev singh,10
+215,jay,shankar,kumar,jay shankar kumar,hardeo singh,10
+216,pramod,na,kumar,pramod kumar,bhaikhan rama,10
+217,dr,ashok,r,dr ashok r,jayashekharayya,10
+218,debashis,na,guha,debashis guha,rabindranath guha,10
+219,ruba,na,guha,ruba guha,debashis guha,10
+220,rajesh,na,sadwani,rajesh sadwani,ramesh sadwani,10
+221,rika,na,sadhwam,rika sadhwam,ramesh sadwani,10
+222,sunitha,na,p,sunitha p,basanth,10
+223,srinivas,na,na,srinivas,yallakkaiah,10
+224,anish,na,anand,anish anand,balraj anand,10
+225,rashmi,na,anand,rashmi anand,anish anand,10
+226,shilpa,na,raghu,shilpa raghu,v raghu,10
+227,reshma,na,kousar,reshma kousar,abdul sattar,10
+228,nelson,vijay,elizier,nelson vijay elizier,late ambrose,10
+229,nithin,peter,pearson,nithin peter pearson,george pearson,10
+230,parikshith,na,jayaprakash,parikshith jayaprakash,parikshith,10
+231,ts,narayana,lyengar,ts narayana lyengar,sampath lyemgar,10
+232,kishan,pars,ram,kishan pars ram,h parsram,10
+233,koushalya,kishin,parsram,koushalya kishin parsram,p kishin parsram,10
+234,gopal,kishan,chand,gopal kishan chand,p kishan chand,10
+235,asha,kishan,chand,asha kishan chand,p kishan chand,10
+236,varuna,g,sakhrani,varuna g sakhrani,gopal k sakhrani,10
+237,narain,rao,r,narain rao r,s rajagopala rao,10
+238,navin,kumar,m,navin kumar m,manickam s,10
+239,narain,varun,rao,narain varun rao,narain rao r,10
+240,bhupanna,k,k,bhupanna k k,kuttappa mk s,11
+241,dharani,bopanna,k,dharani bopanna k,bopanna k k,11
+242,am,chndre,gowda,am chndre gowda,a c malle gowda,11
+243,meeta,mohan,bharvani,meeta mohan bharvani,mohan bharvani,11
+244,dhiren,na,paniker,dhiren paniker,chandra paniker,11
+245,biswanath,na,rana,biswanath rana,chakradhar rana,11
+246,neeraj,na,nagendra,neeraj nagendra,n s nagendra,11
+247,padmavathi,na,amma,padmavathi amma,late sreedharan,11
+248,shivadas,na,s,shivadas s,t s nair,11
+249,vijaya,kumar,s,vijaya kumar s,t s nair,11
+250,na,na,na,jaya kumar nair s,thrikassery,11
+251,ravi,na,sudarshan,ravi sudarshan,a p sudarshan,11
+252,divya,na,sudarshan,divya sudarshan,ravi sudarshan,11
+253,elayaraja,na,na,elayaraja,karthikeyan,11
+254,divyaa,na,patre,divyaa patre,ashok r patre,11
+255,sushanta,na,baksi,sushanta baksi,late nripen,11
+256,kalyan,na,gangauly,kalyan gangauly,late kalidas gangauly,11
+257,sunayana,na,ganguly,sunayana ganguly,kalyan ganguly,11
+258,suranjana,na,ganguly,suranjana ganguly,kalyan ganguly,11
+259,maithirai,na,na,maithirai,bi vi ramaling shetti,11
+260,suma,na,s,suma s,srinivas,11
+261,sahebgowda,na,biradar,sahebgowda biradar,chandrashaker,11
+262,sudha,na,suresh,sudha suresh,p r suresh,11
+263,p,r,suresh,p r suresh,srinivasan,11
+264,jena,na,s,jena s,sudhakaran t,11
+265,anthony,na,crasta,anthony crasta,frances decona,11
+266,rohan,na,joshi,rohan joshi,sateja joshi,11
+267,surendar,na,rao,surendar rao,shankar rao,11
+268,na,na,na,kawal v sivappa d,vinod sivappa d,12
+269,vinod,sivappa,d,vinod sivappa d,sivappa d,12
+270,nishta,sivappa,rathi,nishta sivappa rathi,vinod sivappa d,12
+271,na,na,na,d vishal v sivappa,vinod sivappa d,12
+272,ms,na,nagappa,ms nagappa,m somappa,12
+273,padmini,na,nagappa,padmini nagappa,nagappa,12
+274,anuradha,nagappa,haritha,anuradha nagappa haritha,bhaskar haritha,12
+275,geethanjali,na,na,geethanjali,balagopal,12
+276,shiva,na,v,shiva v,veeranna,12
+277,o,na,rebello,o rebello,rebello,12
+278,ponnamma,na,na,ponnamma,achuthan nair,12
+279,andrew,na,lobo,andrew lobo,late j j d lobo,12
+280,sugathan,na,vasu,sugathan vasu,vasu panikkar,12
+281,anil,na,bajaja,anil bajaja,purushotham bajaj,12
+282,sunitha,na,bajaj,sunitha bajaj,anil bajaja,12
+283,divya,na,bajaj,divya bajaj,anil bajaj,12
+284,surya,na,bajaj,surya bajaj,anil bajaj,12
+285,na,na,na,tk lenarda victor naron,da victor narona,12
+286,therensa,na,narona,therensa narona,da victor naron,12
+287,meenakshi,na,naron,meenakshi naron,therensa narona,12
+288,pavithra,na,na,pavithra,mukund,12
+289,janhavi,na,na,janhavi,shali rahavu,12
+290,rashmi,na,krishnamurthy,rashmi krishnamurthy,p v karthik,12
+291,mukund,na,mv,mukund mv,tv maruthi,12
+292,veena,na,vaz,veena vaz,mario g,12
+293,giridhar,na,srinivas,giridhar srinivas,p m srinivas,12
+294,smitha,na,giridhar,smitha giridhar,giridhar srinivasa,12
+295,sunitha,na,pathravali,sunitha pathravali,sunil pathravali,12
+296,aadithi,na,rao,aadithi rao,umesh b rao,12
+297,anees,na,na,anees,km mohd jrshad,12
+298,shaji,na,philip,shaji philip,mc philip,13
+299,anna,na,philip,anna philip,shaji philip,13
+300,arun,m,mujundara,arun m mujundara,mahadev a mujundara,13
+301,vidya,a,mujundara,vidya a mujundara,arun m mujundara,13
+302,kiron,d,shah,kiron d shah,dhirallal shah,13
+303,anita,na,shah,anita shah,d kiron shah,13
+304,paridhi,na,goyal,paridhi goyal,manav goyal,13
+305,t,v,maruthi,t v maruthi,thimmaiah,13
+306,t,v,sriram,t v sriram,thimmaiah,13
+307,sunandamma,na,na,sunandamma,t v maruthi,13
+308,prabho,na,na,prabho,tv thimmaiah,13
+309,vanamala,na,srinivasamurthy,vanamala srinivasamurthy,srinivasamurthy,13
+310,girija,na,prabho,girija prabho,prabho,13
+311,niveditha,na,na,niveditha,vijay bhaskar,13
+312,viayanand,na,mv,viayanand mv,t v maruthi,13
+313,bhavana,na,vijayanand,bhavana vijayanand,vijayanand,13
+314,na,na,na,s v pavan kumar,t v srinivas murthy,13
+315,p,v,karthik,p v karthik,t v prabhu,13
+316,na,na,na,c k narender nath,c keshav murthy,13
+317,ananthanarayanan,na,s,ananthanarayanan s,subramanya,13
+318,kalpakam,na,a,kalpakam a,ananthanarayanan,13
+319,na,na,na,viay bhaskar r v,t v rajanna,13
+320,samiksha,vijay,bhaskar,samiksha vijay bhaskar,manmohan b r,13
+321,dhakshayani,na,na,dhakshayani,t v sriramu,13
+322,anisha,susan,philip,anisha susan philip,shaji philip,13
+323,nitya,joshua,philip,nitya joshua philip,manamel philip,13
+324,shahed,na,ahmed,shahed ahmed,noor mohamed adam,13
+325,sakina,na,akbar,sakina akbar,syed akbar,13
+326,asmath,na,begum,asmath begum,abdul sattar,13
+327,sneha,na,senapathy,sneha senapathy,suresh senapaty,13
+328,saloni,na,senapaty,saloni senapaty,suresh chandra,14
+329,shaheen,taj,as,shaheen taj as,abdul raheem,14
+330,komala,pavan,kumar,komala pavan kumar,s v pavan kumar,14
+331,srinivasamurthy,na,tv,srinivasamurthy tv,thimmaiah,14
+332,samprith,g,c,samprith g c,chandrashekar g p,15
+333,sadappa,v,nayakara,sadappa v nayakara,venkappa nayakara,15
+334,chandra,shekar,desai,chandra shekar desai,rajendra desai,15
+335,lesli,na,disilva,lesli disilva,leo d silva,15
+336,barnadette,d,silva,barnadette d silva,leslic d silva,15
+337,luvis,na,cardoza,luvis cardoza,david cardoza,15
+338,gracy,na,cardoza,gracy cardoza,luvis cardoza,15
+339,robert,na,na,robert,joseph,15
+340,matilda,na,a,matilda a,anthony swamy,15
+341,richard,na,sequira,richard sequira,albert sequira,15
+342,na,na,na,hedrig das kosta s j,r da costa,15
+343,rosirego,na,na,rosirego,j p regu,15
+344,na,na,na,vijay prabhu s j,francis,15
+345,norbert,na,fernandes,norbert fernandes,santan,15
+346,jossi,na,rodrigs,jossi rodrigs,pascal,15
+347,charls,na,lasrado,charls lasrado,bonavenure,15
+348,godwin,na,coelho,godwin coelho,mayas kohilho,15
+349,lan,na,faria,lan faria,late capt p j faria,15
+350,bhag,tahilram,mansukhani,bhag tahilram mansukhani,tahilram,15
+351,andre,na,peter,andre peter,peter prem,15
+352,nilofer,na,curtis,nilofer curtis,john curtis,15
+353,joseph,gilbert,reginald,joseph gilbert reginald,john,15
+354,ajit,na,kothaneth,ajit kothaneth,kunhunni nair,15
+355,kamalakshi,na,kothaneth,kamalakshi kothaneth,ajit kothaneth,15
+356,dheeraj,na,kothaneth,dheeraj kothaneth,ajit kothaneth,15
+357,vaidehi,na,kothaneth,vaidehi kothaneth,dheeraj kothaneth,15
+358,nr,na,balendran,nr balendran,n natarajan,15
+359,bharathi,na,balendran,bharathi balendran,nr balendran,16
+360,ajay,anand,b,ajay anand b,n r balendran,16
+361,janita,na,haack,janita haack,nils haack,16
+362,sanjay,na,jayanth,sanjay jayanth,natarayan jayanth,16
+363,yogeetha,na,v,yogeetha v,b vijay anand,16
+364,rakshitha,na,ravi,rakshitha ravi,kiran narayan,16
+365,thomas,na,dsouza,thomas dsouza,late peter,16
+366,henry,na,saldanha,henry saldanha,gregory,16
+367,pradeep,na,anthony,pradeep anthony,chinnappa,16
+368,santhosh,wilson,walder,santhosh wilson walder,jacob walder,16
+369,raj,na,kulkarni,raj kulkarni,venkataramanaiah,16
+370,na,na,na,sadappa v naikar naikar,venkatappa naikar,16
+371,s,na,jayanthamma,s jayanthamma,suresh s,16
+372,aral,na,lobo,aral lobo,zarryl lobo,16
+373,shanelobo,na,na,shanelobo,zarry lobo,16
+374,arti,na,malhotra,arti malhotra,sudeep das,16
+375,kalpana,na,rodrigues,kalpana rodrigues,ivor rodrigues,16
+376,aurina,na,rodrigsa,aurina rodrigsa,rodrigsa m j,16
+377,rodrigsa,m,j,rodrigsa m j,rodrigsa aa,16
+378,ivor,na,rodrigues,ivor rodrigues,m j rodrigues,16
+379,basanth,na,b,basanth b,krishna,16
+380,chandrashekhar,na,yaligar,chandrashekhar yaligar,gangappa,16
+381,milesh,na,kumar,milesh kumar,pitchai,16
+382,dh,na,rayappa,dh rayappa,doddaiah,16
+383,jarriyala,na,lobo,jarriyala lobo,dunstan lobo,16
+384,loana,na,lobo,loana lobo,zarryelobo,16
+385,skariya,na,vadapuram,skariya vadapuram,skarly vadapuram pil,16
+386,phredi,na,mendij,phredi mendij,paul,17
+387,na,na,na,peter j r prabhu,h p p rodrigues,17
+388,skutuss,na,fernandis,skutuss fernandis,joseph j,17
+389,carmel,na,prabhu,carmel prabhu,peter j r prabhu,17
+390,francis,na,guntipilai,francis guntipilai,gt joseph,17
+391,gilbard,na,saldana,gilbard saldana,jojima saldana,17
+392,avinash,na,prabhu,avinash prabhu,peter j r prabhu,17
+393,edward,pilipa,d,edward pilipa d,dorairaj,17
+394,sharada,na,na,sharada,nataraju,17
+395,dhiraj,na,prabhu,dhiraj prabhu,peter prabhu,17
+396,vinitha,na,prabhu,vinitha prabhu,peter prabhu,17
+397,padmavathi,na,narayan,padmavathi narayan,b narayan,17
+398,n,na,ravi,n ravi,b narayan,17
+399,n,na,kiran,n kiran,b narayan,17
+400,nalini,na,kiran,nalini kiran,s kiran,17
+401,roshini,na,ravi,roshini ravi,ravi,17
+402,salamma,na,na,salamma,raju,17
+403,uma,na,rao,uma rao,raj kumar rao,17
+404,pritvi,na,rao,pritvi rao,raj kumar rao,17
+405,divya,na,rao,divya rao,raja kumar rao,17
+406,sneha,na,rao,sneha rao,pritvi rao,17
+407,venugopal,t,k,venugopal t k,raman t k,17
+408,k,na,savitha,k savitha,t k venugopal,17
+409,vasantha,na,j,vasantha j,natarajan jayanth,17
+410,bimla,na,agarwal,bimla agarwal,basudeva agarwal,17
+411,manohar,na,nr,manohar nr,s nataraj,17
+412,m,shantha,kumari,m shantha kumari,nr manohar,17
+413,m,na,premanand,m premanand,manohar nr,17
+414,nitin,na,agarwal,nitin agarwal,avinash agarwal,17
+415,basu,deo,agrawal,basu deo agrawal,jayadyal agrawal,17
+416,avinash,na,agarwal,avinash agarwal,basudeva agarwal,18
+417,rithu,na,agarwal,rithu agarwal,avinash agarwal,18
+418,prem,kumar,sarathy,prem kumar sarathy,s partha sarathy,18
+419,prema,na,sarathy,prema sarathy,prem kumar sarathy,18
+420,ashok,na,sarathy,ashok sarathy,p k sarathiy,18
+421,paida,na,venkataramanareddy,paida venkataramanareddy,paida chandrashekhar,18
+422,paida,reddamma,reddy,paida reddamma reddy,paida,18
+423,mn,na,rukmini,mn rukmini,b h munireddy,18
+424,jayaprakash,na,mr,jayaprakash mr,b h munireddy,18
+425,shobha,na,na,shobha,jayaprakash,18
+426,j,na,harshavardhan,j harshavardhan,m r jayaprakash,18
+427,aasha,palan,de,aasha palan de,lakshman palana,18
+428,laxman,na,palande,laxman palande,ramachandra palande,18
+429,geeta,na,paul,geeta paul,r s paul,18
+430,sachin,na,palande,sachin palande,laxman palande,18
+431,indira,na,rao,indira rao,prakash rao,18
+432,prakash,na,rao,prakash rao,rao hg,18
+433,d,wilma,machaya,d wilma machaya,d p machaya,18
+434,narayan,k,s,narayan k s,subbaraman k k,18
+435,pradip,na,shah,pradip shah,kasmukh lal shah,18
+436,sweta,na,shah,sweta shah,pradip shah,18
+437,george,na,pearson,george pearson,akla pearson,18
+438,sierra,na,pearson,sierra pearson,george pearson,18
+439,shamik,na,shah,shamik shah,pradeep shah,18
+440,foram,na,shah,foram shah,shamik shah,18
+441,priyanki,na,shah,priyanki shah,pradip shah,18
+442,jakis,hussain,laskas,jakis hussain laskas,majir uddin laskas,18
+443,neha,maria,pearson,neha maria pearson,george pearson,18
+444,anitha,na,faria,anitha faria,lyer phrariya,18
+445,craig,na,faria,craig faria,aiyana phariya,18
+446,nicole,na,faria,nicole faria,ian,19
+447,malathy,p,r,malathy p r,srinivasan,19
+448,sudarshan,na,na,sudarshan,p r suresh,19
+449,cyril,na,menezes,cyril menezes,marcel menezes,19
+450,melwyn,anil,lobo,melwyn anil lobo,leo,19
+451,alwyn,na,dsouza,alwyn dsouza,felix dsouza,19
+452,santhosh,ramesh,dsouza,santhosh ramesh dsouza,marian dsouza,19
+453,wung,na,chang,wung chang,ramyo,19
+454,noyel,melvin,serrao,noyel melvin serrao,gregory serrao,19
+455,rejoy,na,johny,rejoy johny,johny,19
+456,arun,na,subramaniam,arun subramaniam,m v subramaniyam,19
+457,prema,na,krishnan,prema krishnan,late n krishnan,20
+458,arun,kumar,bunyan,arun kumar bunyan,alfred bunyan,20
+459,jyothy,na,bunyan,jyothy bunyan,arun kumar bunyan,20
+460,sundar,na,singh,sundar singh,jacob,20
+461,d,samuel,francis,d samuel francis,late d zachariah,20
+462,joyce,na,sundar,joyce sundar,sundar singh,20
+463,norma,na,powell,norma powell,baden powell,20
+464,k,esther,samuel,k esther samuel,samuel francis,20
+465,asir,na,jeyasingh,asir jeyasingh,samuel johnson,20
+466,vineetha,na,jeyasingh,vineetha jeyasingh,asir jeyasingh,20
+467,geetha,na,roberts,geetha roberts,roberts n,20
+468,roberts,na,n,roberts n,n a joseph,20
+469,prathap,na,km,prathap km,prakasham,20
+470,mary,na,na,mary,prakasham,20
+471,steven,na,na,steven,b r arun kumar,20
+472,d,na,aalithya,d aalithya,syamyuyal francis,20
+473,deepak,na,sundar,deepak sundar,j sundar singh,20
+474,d,na,shekinaha,d shekinaha,syamyuyal francis,20
+475,rajashekhar,p,s,rajashekhar p s,p k shivappayya,20
+476,lalita,r,pathre,lalita r pathre,p r rajashekhar,20
+477,sabeena,na,sabharwal,sabeena sabharwal,avinasa sabharwal,20
+478,sarojini,na,p,sarojini p,pandurangan,20
+479,sampath,kumar,p,sampath kumar p,late c t pandurangan,20
+480,devaki,sampath,kumar,devaki sampath kumar,sampath kumar,20
+481,jayamma,na,na,jayamma,kariyappa,20
+482,karthik,sampath,kumar,karthik sampath kumar,sampath kumar,20
+483,anjana,na,thomas,anjana thomas,tilak thomas,20
+484,bhola,na,yadav,bhola yadav,saryu yadav,20
+485,deachanna,na,cariapa,deachanna cariapa,late c b cariapa,20
+486,rajyalakshmi,na,na,rajyalakshmi,s r rao,20
+487,karthik,na,krishna,karthik krishna,krishna,21
+488,priyanka,na,gauro,priyanka gauro,prem kumar,21
+489,na,na,na,g k madan mohan,g v krishna reddy,21
+490,divya,g,m,divya g m,g k madan mohan,21
+491,gowri,m,mohan,gowri m mohan,g k madan mohan,21
+492,dushyanth,g,m,dushyanth g m,g k madan mohan,21
+493,vidya,na,rajarao,vidya rajarao,n v krishnakumar,22
+494,sabrina,na,aggarwal,sabrina aggarwal,gautam aggarwal,22
+495,chuki,na,kanwar,chuki kanwar,pukhraj siremal,22
+496,kamlesh,pukhraj,talera,kamlesh pukhraj talera,pukhraj siremal talera,22
+497,dinesh,pukhraj,talera,dinesh pukhraj talera,pukhraj siremal talera,22
+498,kavitha,dinesh,thalera,kavitha dinesh thalera,dinesh pukaraja,22
+499,cn,na,kumar,cn kumar,c r nagappa,22
+500,prema,na,kumar,prema kumar,c n kumar,22
+501,navin,kumar,c,navin kumar c,c n kumar,22
+502,prakashini,na,kamath,prakashini kamath,mudalagiri shenoy,22
+503,maya,na,kamath,maya kamath,b v kamath,22
+504,erum,na,ajani,erum ajani,asim ali,22
+505,rajeshwari,na,h,rajeshwari h,c n hosali,22
+506,somashekar,c,h,somashekar c h,cn hosali,22
+507,pushpa,na,somashekhar,pushpa somashekhar,somashekar c h,22
+508,gn,na,nataraj,gn nataraj,c r nagappa,22
+509,v,na,rajeshwari,v rajeshwari,chandrashekhar,22
+510,kavya,nataraj,choudhri,kavya nataraj choudhri,c n nataraj,22
+511,babu,na,c,babu c,chandrashekhar s,22
+512,s,philip,louies,s philip louies,damain louies,22
+513,catherine,mary,louies,catherine mary louies,s philip louies,22
+514,shashi,kiran,lewis,shashi kiran lewis,s philip lewis,22
+515,sunil,arun,lewis,sunil arun lewis,s philip lewis,22
+516,pramila,monthi,lewis,pramila monthi lewis,shashi kiran lewis,22
+517,rita,na,lewis,rita lewis,sunil arun lewis,22
+518,reeta,na,louies,reeta louies,sunil arun louies,22
+519,govind,na,mirchandani,govind mirchandani,manik mirchandani,22
+520,sharmila,na,mirchandani,sharmila mirchandani,govind,23
+521,asim,na,ali,asim ali,haiderali,23
+522,jahanara,na,asim,jahanara asim,asim ali,23
+523,anam,asim,ali,anam asim ali,asim ali,23
+524,mirza,sajid,hussain,mirza sajid hussain,mirza abbas hussain,23
+525,mirza,kaneez,zehra,mirza kaneez zehra,mirza sajid hussain,23
+526,sujata,kelkar,shetty,sujata kelkar shetty,nitesh shetty,23
+527,nitesh,na,shetty,nitesh shetty,pavoor vishwanatha,23
+528,tm,na,thomas,tm thomas,ka thomas,23
+529,susan,gita,thomas,susan gita thomas,t m thomas,23
+530,vangjalakshmi,na,na,vangjalakshmi,t m thomas,23
+531,tilak,na,a,tilak a,thomas,23
+532,ela,anna,thomas,ela anna thomas,thomas t m,23
+533,siddarth,na,na,siddarth,rajaram,23
+534,rabella,na,siddarth,rabella siddarth,siddarth r,23
+535,chitharanjan,na,na,chitharanjan,siddarth r,23
+536,zara,na,shaikh,zara shaikh,abdul rahim shaikh,23
+537,krishnamurthi,na,na,krishnamurthi,ramasubbaiah shetty,23
+538,wk,na,padmavathi,wk padmavathi,m r krishnamurthi,23
+539,mk,na,sabrinatha,mk sabrinatha,m r krishnamurthi,23
+540,ms,na,roopa,ms roopa,m k shabrinatha,23
+541,vasanthi,na,b,vasanthi b,virabhadra,23
+542,shivaraj,na,na,shivaraj,virabhadra basavaraju,23
+543,tara,a,manju,tara a manju,a manju,23
+544,lagna,na,gowda,lagna gowda,a manju,23
+545,sudarshan,kumar,maini,sudarshan kumar maini,myni,23
+546,rev,na,maini,rev maini,sudarshan kumar,23
+547,rukmini,na,subbaiah,rukmini subbaiah,m c subbaiah,23
+548,m,c,subbaiah,m c subbaiah,m  b chinnappa,23
+549,sandeep,na,cariappa,sandeep cariappa,m c subbaiah,23
+550,ak,na,santosh,ak santosh,keshava rao,24
+551,aruna,na,santosh,aruna santosh,a k santosh,24
+552,sulochana,na,veliniga,sulochana veliniga,deepak veliniga,24
+553,deepak,na,veliniga,deepak veliniga,saratha w,24
+554,akshara,na,santosh,akshara santosh,ak santosh,24
+555,paavanah,na,santosh,paavanah santosh,ak santosh,24
+556,pramana,s,arkata,pramana s arkata,santhosh,24
+557,madhuri,d,welling,madhuri d welling,deepak s,24
+558,devendra,d,welling,devendra d welling,deepak,24
+559,somashekhar,reddy,hr,somashekhar reddy hr,ramaiah reddy hn,24
+560,manjula,na,reddy,manjula reddy,reddy hr s,24
+561,dr,adarsh,s,dr adarsh s,reddy hr s,24
+562,akarsh,na,s,akarsh s,reddy hr s,24
+563,dr,anupama,nagaraja,dr anupama nagaraja,dr adarsh hs,24
+564,dayanandini,na,na,dayanandini,akarsh s,24
+565,vinutha,reddy,m,vinutha reddy m,sudhakar reddy,24
+566,deepak,kumar,reddy,deepak kumar reddy,sudhakar reddy,24
+567,prateek,na,mohapatra,prateek mohapatra,bhakta mohapatra,24
+568,champalathra,abram,joseph,champalathra abram joseph,late c c abram,24
+569,mary,na,joseph,mary joseph,c a joseph,24
+570,rohit,na,joseph,rohit joseph,c a joseph,24
+571,marie,na,colaco,marie colaco,jemes colaco,24
+572,shila,na,kamath,shila kamath,jems colaco,24
+573,uttam,na,chordia,uttam chordia,paras mal chordia,24
+574,rekha,na,chordia,rekha chordia,uttam chordia,24
+575,t,na,raju,t raju,thippaiah,24
+576,vinay,na,chordia,vinay chordia,uttam chordia,24
+577,aakanksh,v,chordia,aakanksh v chordia,vinay chordia,24
+578,shivir,na,chardia,shivir chardia,uththam chardia,24
+579,sushila,mukesh,agarwal,sushila mukesh agarwal,mukesh kumar,24
+580,bindiya,k,suresh,bindiya k suresh,kaggere s suresh,25
+581,sharada,na,na,sharada,h shivayya,25
+582,rashmi,na,mahajan,rashmi mahajan,ajay mahajan,25
+583,dileep,na,ranjekar,dileep ranjekar,kamlakar,25
+584,dileep,na,ranjekar,dileep ranjekar,kamlakar ranjekar,25
+585,snehal,na,kilanjar,snehal kilanjar,sadashiv kilanjar,25
+586,b,y,murthy,b y murthy,b t krishna murthy,25
+587,pramod,na,kurian,pramod kurian,k korah,25
+588,s,jabez,dhinagar,s jabez dhinagar,selwyn raj,25
+589,manjula,na,dhinagar,manjula dhinagar,s jabez dhinagar,25
+590,deepa,na,kurian,deepa kurian,pramoda kurian,25
+591,ashwin,kurian,korah,ashwin kurian korah,pramod kurian,25
+592,rama,na,narasimhan,rama narasimhan,narasimhan,25
+593,keshavan,na,narasimhan,keshavan narasimhan,narasimhan,25
+594,madhavan,na,narasimhan,madhavan narasimhan,narasimhan,25
+595,nalini,na,deshikana,nalini deshikana,deshikana,25
+596,tharuna,na,deshikan,tharuna deshikan,nalini deshikan,25
+597,diptha,na,desikan,diptha desikan,nalini desikan,25
+598,leela,na,bhasin,leela bhasin,late ram lal,25
+599,hemant,khande,parka,hemant khande parka,gajanan khande parka,25
+600,aslesha,na,khandeparkar,aslesha khandeparkar,hemanth,25
+601,satish,chand,goel,satish chand goel,hukam chand goel,25
+602,b,na,sarada,b sarada,y murthy,25
+603,shakunthala,na,goel,shakunthala goel,satish chand goel,25
+604,manav,na,goel,manav goel,satish chand goel,26
+605,nagarjuna,na,moharia,nagarjuna moharia,m s n raju moharala,26
+606,karan,na,goel,karan goel,sathish chand goel,26
+607,sunitha,na,sharma,sunitha sharma,santosh sharma,26
+608,kunnal,na,devnani,kunnal devnani,kannaya devnani,26
+609,preethi,na,jain,preethi jain,sunil jain,26
+610,l,sanjana,mehta,l sanjana mehta,dr lalith kumar,26
+611,l,sonali,mehta,l sonali mehta,dr lalith kumar,26
+612,as,na,amith,as amith,a v suresh babu,26
+613,shraddha,amith,d,shraddha amith d,a s amith,26
+614,d,sharaddha,amith,d sharaddha amith,as amith,26
+615,john,na,kurian,john kurian,late kalarickal raju,26
+616,siddarth,kurian,john,siddarth kurian john,john kurian,26
+617,mennura,thejo,murthy,mennura thejo murthy,subba reddy mv,26
+618,krishna,suraj,moraje,krishna suraj moraje,moraje,26
+619,kaustubh,na,prive,kaustubh prive,prashant narayan,26
+620,anika,na,priye,anika priye,kaustubh priye,26
+621,radha,na,gopalan,radha gopalan,k chandu,26
+622,shamala,na,upadhya,shamala upadhya,muralidhar upadhya,26
+623,silky,na,goel,silky goel,karan goel,26
+624,changam,raju,k,changam raju k,kupparaju,26
+625,jithendra,kuma,mendaliy,jithendra kuma mendaliy,ganshandasa mendaliy,26
+626,indira,na,mendeliya,indira mendeliya,mendeliya j k,26
+627,deepak,kumar,jain,deepak kumar jain,suresh kumar jain,26
+628,anu,na,jain,anu jain,suresh kumar jain,26
+629,akshay,na,mendeliy,akshay mendeliy,mendeliy j k,26
+630,renu,na,jain,renu jain,suresh kumar jain,26
+631,m,aruna,gandhi,m aruna gandhi,gandhi reddy,26
+632,deepthi,na,mannur,deepthi mannur,m m vandith reddy,26
+633,mm,vandith,reddy,mm vandith reddy,m gandhi,26
+634,sushil,kumar,jain,sushil kumar jain,bhim sain,27
+635,anitha,na,jain,anitha jain,sushil kumar jain,27
+636,rajkumar,na,jain,rajkumar jain,sushil kumar jain,27
+637,sudhir,kumar,jain,sudhir kumar jain,sushil kumar jain,27
+638,vikas,kumar,jain,vikas kumar jain,sushil kumar jain,27
+639,ekta,na,jain,ekta jain,raj kumar jain,27
+640,anshu,na,jain,anshu jain,vikas kumar jain,27
+641,mohan,na,mankani,mohan mankani,v l mankani,27
+642,swapna,na,mankani,swapna mankani,mohan mankani,27
+643,vikas,na,jhunjhunwala,vikas jhunjhunwala,hanuman,27
+644,ak,na,jain,ak jain,arjun dev jain,27
+645,nidhi,na,jain,nidhi jain,ak jain,27
+646,madhu,na,sharma,madhu sharma,colonel shailendra,27
+647,s,na,deenadayal,s deenadayal,m soundararajan,27
+648,narayanan,v,n,narayanan v n,v k narasimhan,27
+649,radha,na,narayanan,radha narayanan,narayanan v n,27
+650,ajay,na,mukhija,ajay mukhija,jagadish chander,27
+651,pratheeksha,na,l,pratheeksha l,prakasha l r,27
+652,brideep,na,bhasin,brideep bhasin,tajinder bhasin,27
+653,balaji,na,pasumarthi,balaji pasumarthi,p sriramulu,27
+654,arathi,p,balaji,arathi p balaji,balaji pasumarthi,27
+655,rekha,kishor,papdiwala,rekha kishor papdiwala,kishor,27
+656,mehul,kishor,papdiwala,mehul kishor papdiwala,rekha kishor,27
+657,leena,na,singh,leena singh,mohan singh,27
+658,raj,kumar,yadav,raj kumar yadav,aulkao yadav,27
+659,nandini,na,ranjekar,nandini ranjekar,dileep ranjekar,27
+660,dr,gunjan,agarwal,dr gunjan agarwal,dr anil kumar,27
+661,varun,kumar,agarwal,varun kumar agarwal,anil kumar,28
+662,na,na,na,dr anil kumar agarwal,s g agarwal,28
+663,na,na,na,dr shankar p n,narasimhan p s,28
+664,dr,preethi,shankar,dr preethi shankar,dr shankar p n,28
+665,sachiketh,na,shankar,sachiketh shankar,pn shankar,28
+666,mridulashankara,na,na,mridulashankara,dr shankar p n,28
+667,veerabhadra,na,basavaraju,veerabhadra basavaraju,veerabhadra,28
+668,deepak,dikshith,l,deepak dikshith l,dikshith r l,28
+669,lepakshi,na,deekshith,lepakshi deekshith,rama deekshith,28
+670,uma,na,hs,uma hs,lepakshi deekshith,28
+671,sarane,na,ranjekar,sarane ranjekar,dileep ranjekar,28
+672,deepika,na,sharma,deepika sharma,krishna suraj,28
+673,sona,na,dhanani,sona dhanani,kayum razak,28
+674,prakasha,l,r,prakasha l r,ramakrishna kunju,28
+675,na,na,na,c r s moni,ramanarayan,28
+676,shantha,na,moni,shantha moni,c r s moni,28
+677,gowtham,na,tata,gowtham tata,purnachndra rao,28
+678,d,na,ashitha,d ashitha,s deenadayal,28
+679,hemil,kishor,papdiwala,hemil kishor papdiwala,rekha kishor,28
+680,bhaskar,na,raju,bhaskar raju,venkata,28
+681,deepa,na,raju,deepa raju,bhaskar raju,28
+682,deepa,bhatia,chirayath,deepa bhatia chirayath,ralph chirayath,30
+683,mohammed,na,nisar,mohammed nisar,mohammed khaleel,30
+684,vijay,na,mallya,vijay mallya,late vittal mallya,30
+685,rithu,na,mallya,rithu mallya,vital mallya,30
+686,umesh,na,hingorani,umesh hingorani,vittal mallya,30
+687,shambhavi,na,hingorani,shambhavi hingorani,umesh hingorani,30
+688,prasad,na,hrr,prasad hrr,late iyengar hr,30
+689,purshotam,d,jain,purshotam d jain,mahavir p jain,30
+690,sudhakar,k,s,sudhakar k s,shivappa,30
+691,gita,na,jain,gita jain,purshotam jain,30
+692,ningegowda,na,na,ningegowda,siddalingegowda,30
+693,rajendra,na,bhansali,rajendra bhansali,dhanraj bhansali,30
+694,abida,na,nahid,abida nahid,mohammed nisar,30
+695,rajendra,na,bhansali,rajendra bhansali,rajendra b,30
+696,triveni,na,n,triveni n,ningegowda,30
+697,sarita,na,bhansali,sarita bhansali,rajendra bhansali,30
+698,shishir,kumar,modi,shishir kumar modi,raj kishore modi,30
+699,rajesh,na,thadaraval,rajesh thadaraval,thadara vala mc,30
+700,pramila,na,thadaraval,pramila thadaraval,kuttap mk s,30
+701,isubu,na,khadar,isubu khadar,abdul khadar,30
+702,na,na,na,ashwin prasad h r,prasad hr r,30
+703,pramila,na,todarwal,pramila todarwal,rajesh,30
+704,gopal,pandurang,shinde,gopal pandurang shinde,s pandurang,30
+705,vandan,na,gopal,vandan gopal,fpandurang,30
+706,aparna,na,jain,aparna jain,purushotam jain,30
+707,ashok,kumar,v,ashok kumar v,jokan lal vishwakarma,30
+708,sonia,na,bakshi,sonia bakshi,vinod kumar,30
+709,bipa,lov,bilaval,bipa lov bilaval,kyalirama bel bal,31
+710,ashwini,na,bilaval,ashwini bilaval,bipa lov bilaval,31
+711,reshma,na,kaur,reshma kaur,ravindra kumar,31
+712,asmath,na,begaum,asmath begaum,abdul sathar,31
+713,umesh,na,pandurang,umesh pandurang,pandurang,31
+714,santhosh,na,kumar,santhosh kumar,mithai lal,31
+715,dechamma,na,devaiah,dechamma devaiah,devaiah,31
+716,shankar,na,na,shankar,vasudev murthy,31
+717,sriranga,na,na,sriranga,sudhakar k s,31
+718,vinitha,ban,sali,vinitha ban sali,rajendra ban sali,31
+719,ramesh,na,na,ramesh,pratap singh,31
+720,hari,na,mandal,hari mandal,mahendra mandal,31
+721,mohammed,na,ali,mohammed ali,mohammed nisar,31
+722,savitha,na,na,savitha,shankar,31
+723,rohan,na,thadaraval,rohan thadaraval,rajesh thadaraval,31
+724,nithya,na,na,nithya,ningegowda,31
+725,mohammed,na,umer,mohammed umer,mohammed nisar,31
+726,akhila,na,nagaraj,akhila nagaraj,vivek ramesh,31
+727,dula,na,bahaddur,dula bahaddur,prathap kala singh,31
+728,srishti,na,modi,srishti modi,shishir kumar modi,31
+729,rushik,na,thadaraval,rushik thadaraval,rajesh thadarav,31
+730,dilip,na,dsouza,dilip dsouza,ab dsouza,31
+731,sanaaz,na,doust,sanaaz doust,doust rr,31
+732,usha,na,chugh,usha chugh,ramesh chugh,31
+733,sudeep,kumar,agarwal,sudeep kumar agarwal,tilak raj agarwal,31
+734,anju,na,agarwal,anju agarwal,sudeep agarwal,31
+735,ishita,na,agarwal,ishita agarwal,sudeep agarwal,31
+736,sreshtha,na,agarwal,sreshtha agarwal,sudeep agarwal,31
+737,mridhvika,na,"agarwal,","mridhvika agarwal,",sudeep agarwal,31
+738,seethamma,na,na,seethamma,s v v subbu,31
+739,saraswathi,na,na,saraswathi,dakshina murthy,32
+740,v,na,prabhakaran,v prabhakaran,s v v subbu,32
+741,v,vijay,kumar,v vijay kumar,s v v subbu,32
+742,gayathri,na,na,gayathri,vijay kumar,32
+743,rathna,na,prabhakaran,rathna prabhakaran,v prabhakaran,32
+744,siva,kumar,v,siva kumar v,v vijaya kumar,32
+745,sowmya,na,prabhakar,sowmya prabhakar,v prabhakaran,32
+746,v,arun,kumar,v arun kumar,v vijay kumar,32
+747,harish,na,na,harish,v prabhakaran,32
+748,goyinka,vidya,satish,goyinka vidya satish,satish deva prasad,32
+749,shaila,na,kuriyan,shaila kuriyan,bijo kuriyan,32
+750,goenka,samir,satish,goenka samir satish,satish devi prasad,32
+751,shalini,na,goenka,shalini goenka,samir satish goenka,32
+752,rajat,na,goenka,rajat goenka,satish devi prasad,32
+753,nisha,na,goyinka,nisha goyinka,sameer satish,32
+754,zubin,cyrus,unvalla,zubin cyrus unvalla,cyrus jamshed,32
+755,amrita,na,randhawa,amrita randhawa,zubin c unvalla,32
+756,sanaaz,na,na,sanaaz,doust r r,32
+757,ab,na,dsouza,ab dsouza,p g dsouza,32
+758,robert,na,s,robert s,sam,32
+759,fiona,iyril,dsoza,fiona iyril dsoza,dilip mark,32
+760,anindita,na,dastala,anindita dastala,lala,32
+761,bindu,na,n,bindu n,a narayanappa,32
+762,rahul,na,n,rahul n,a narayanappa,32
+763,sharan,na,na,sharan,ashok kumar,32
+764,leena,na,chaudhuri,leena chaudhuri,late arup chaudhuri,32
+765,varun,ramesh,jois,varun ramesh jois,ramesh jois,32
+766,srijan,na,na,srijan,sishir kuamr,32
+767,karthik,na,basappa,karthik basappa,pritham basappa,32
+768,rohan,thodar,val,rohan thodar val,rajesh thodar val,32
+769,milap,chand,sancheti,milap chand sancheti,mohan lal sancheti,33
+770,anil,m,sancheti,anil m sancheti,milap chand sancheti,33
+771,reetu,a,sancheti,reetu a sancheti,anil m sancheti,33
+772,asha,na,chakravarti,asha chakravarti,b m chakravarti,33
+773,imtiaz,na,fumiturewalla,imtiaz fumiturewalla,s furniturewalla,33
+774,rubi,na,furniturewalla,rubi furniturewalla,furniturewalla,33
+775,alisha,na,furiturewalla,alisha furiturewalla,intiaz furniturewalla,33
+776,milapchand,na,sancheti,milapchand sancheti,mohanlal sancheti,33
+777,sharan,ashok,sachdev,sharan ashok sachdev,ashok kumar sachdev,33
+778,ayesha,na,rifath,ayesha rifath,isubu abdul kadar,33
+779,kasthuri,na,jayant,kasthuri jayant,c madhava rao,33
+780,mala,na,martina,mala martina,florance rao,33
+781,js,na,dhariwal,js dhariwal,c dhariwal,33
+782,dharivala,na,na,dharivala,j s dharivala,33
+783,cavery,na,bopaiah,cavery bopaiah,b s bopaiah,33
+784,mn,na,prasad,mn prasad,mn nanaiah,33
+785,m,thara,prasad,m thara prasad,mn prasad,33
+786,mp,na,bopiah,mp bopiah,mn prasad,33
+787,muthamma,m,p,muthamma m p,mn prasad,33
+788,manju,na,modi,manju modi,shishir kumar modi,33
+789,mohini,na,bhagwandas,mohini bhagwandas,h bhagwanadas,33
+790,n,na,vasudev,n vasudev,k v narayana,33
+791,s,v,bhagalakshmi,s v bhagalakshmi,n vasudev,33
+792,v,na,raghu,v raghu,n vasudav,33
+793,sunil,j,gowda,sunil j gowda,u k subbaiah,33
+794,shwetha,na,gowda,shwetha gowda,sunil j gowda,33
+795,sandeep,na,chabriya,sandeep chabriya,p j chabriya,33
+796,bachnu,na,mandal,bachnu mandal,buchi mandal,33
+797,kyra,na,chugh,kyra chugh,sharan chugh,33
+798,shanthi,na,ulla,shanthi ulla,late sri chadan lulla,33
+799,ramesh,na,chugh,ramesh chugh,hoond raj,34
+800,ravinder,kumar,aggarwal,ravinder kumar aggarwal,ram swaroop,34
+801,geetha,na,agarwal,geetha agarwal,ravindra kumar,34
+802,rajan,na,agarwal,rajan agarwal,ravindra agarwal,34
+803,a,jayanth,reddy,a jayanth reddy,a ramachandra reddy,34
+804,a,srilatha,reddy,a srilatha reddy,a jayanth reddy,34
+805,k,na,pumesh,k pumesh,k s kalle gowda,34
+806,sree,vanitha,purnesh,sree vanitha purnesh,k pumesh,34
+807,savita,na,aggarwal,savita aggarwal,shyamlal aggarwal,34
+808,bhavna,na,aggarwal,bhavna aggarwal,shyamial aggarwal,34
+809,pp,na,vijay,pp vijay,p m poovaiah,34
+810,sriram,na,varadarajan,sriram varadarajan,varadarajan,34
+811,ranjeet,david,chhabria,ranjeet david chhabria,gopal t chhabria,34
+812,sharan,na,chugh,sharan chugh,ramesh chugh,34
+813,ashok,kumar,sachdev,ashok kumar sachdev,late sunderdas,34
+814,meena,na,sachdev,meena sachdev,ashok kumar s,34
+815,sharan,na,chugh,sharan chugh,ramesh chugh,34
+816,cherian,na,verkey,cherian verkey,koshi verkey,34
+817,na,na,na,george kani anthra philips,dr joseph ummena,34
+818,som,na,philiphs,som philiphs,kanianthra,34
+819,rr,na,doust,rr doust,h ali,34
+820,sangeeta,r,doust,sangeeta  r doust,rr doust,34
+821,meenakshi,na,dsouza,meenakshi dsouza,deepak dsouza,34
+822,sunil,d,souza,sunil d souza,d souza aj f,34
+823,deepak,d,souza,deepak d souza,aj f dsouza,34
+824,najoo,na,varkey,najoo varkey,dr cherian verkey,34
+825,rk,na,sawhney,rk sawhney,k s sawhney,34
+826,sheela,na,sawhney,sheela sawhney,r k sawhney,34
+827,savhney,r,k,savhney r k,sawhney k s,34
+828,viren,na,sawhney,viren sawhney,r k sawhney,34
+829,shekar,na,das,shekar das,dijendra das,35
+830,meeka,na,sawhney,meeka sawhney,r k  sawhney,35
+831,samor,jt,das,samor jt das,diyendra chandra das,35
+832,ks,na,subbaiah,ks subbaiah,joseph louies,35
+833,vajtha,na,subbaiah,vajtha subbaiah,k s subbaiah,35
+834,shanthi,na,prakash,shanthi prakash,p c prakash,35
+835,siddarth,na,prakash,siddarth prakash,prakash p c,35
+836,ramali,na,prakash,ramali prakash,prakash p c,35
+837,shivali,na,prakash,shivali prakash,prakash p c,35
+838,vp,na,manohar,vp manohar,v r purshotham,35
+839,budun,na,kamti,budun kamti,baklu kamti,35
+840,sathyanarayan,na,na,sathyanarayan,v p manohar,35
+841,dhanya,na,rajendran,dhanya rajendran,vignesh manohar,35
+842,vignesh,na,manohar,vignesh manohar,v p manohar,35
+843,kamakshi,na,manohar,kamakshi manohar,v p manohar,35
+844,avis,na,dsouza,avis dsouza,leslie dsouza,35
+845,leslid,na,souza,leslid souza,vg d souza,35
+846,suresh,na,kibe,suresh kibe,vital kibe,35
+847,latha,na,kini,latha kini,pravin kini,35
+848,pravin,na,kini,pravin kini,kini mg,35
+849,dr,savitri,kibe,dr savitri kibe,suresh v kibe,35
+850,saral,na,kibe,saral kibe,suresh v kibe,35
+851,vivek,na,anand,vivek anand,b m anand,35
+852,prerna,na,anand,prerna anand,vivek anand,35
+853,priya,d,souza,priya d souza,leslie dsouza,35
+854,rathna,na,kibe,rathna kibe,suresh kibe,35
+855,michael,d,souza,michael d souza,leslie dsouza,35
+856,rudra,na,chaudhuri,rudra chaudhuri,late arup chaudhuri,35
+857,veda,na,ponnappa,veda ponnappa,k a ponnappa,35
+858,kongera,vishal,ponnappa,kongera vishal ponnappa,kongera appannah,35
+859,ka,na,ponnappa,ka ponnappa,kt appannaiah,36
+860,navina,na,ponnappa,navina ponnappa,c m madappa,36
+861,nitin,na,bagamane,nitin bagamane,b d bhoje gowda,36
+862,saroja,na,putappa,saroja putappa,late putappa,36
+863,archana,na,nitin,archana nitin,nitin bagamane,36
+864,tushar,na,bagamane,tushar bagamane,nitin bagamane,36
+865,tanisha,na,bagamane,tanisha bagamane,nitin bagamane,36
+866,v,na,ganesh,v ganesh,m venkata swamy,36
+867,sachidevi,na,sudhakar,sachidevi sudhakar,sudhakar k s,36
+868,prakash,na,raj,prakash raj,manjunath ral,36
+869,bhargavi,na,gopinath,bhargavi gopinath,captain gopinath,36
+870,krithika,na,gopinath,krithika gopinath,captain g r gopinath,36
+871,ritu,na,agarwal,ritu agarwal,devesh agarwal,36
+872,savitha,na,agaraval,savitha agaraval,shyam lal agaraval,36
+873,atul,k,shah,atul k shah,shah k m,36
+874,smita,na,shah,smita shah,atul k shah,36
+875,shoba,na,ganesh,shoba ganesh,gangadharaiah,36
+876,kl,padmavathi,amma,kl padmavathi amma,late k p pillai,36
+877,jayasheela,na,pillai,jayasheela pillai,k p pillai,36
+878,jayamala,na,pillai,jayamala pillai,prem shekhar,36
+879,devika,na,venu,devika venu,s r venu,36
+880,mary,na,kurien,mary kurien,k kurien,36
+881,bijou,na,kurien,bijou kurien,k kurien,36
+882,sheila,na,na,sheila,bijou kurien,36
+883,nikhil,na,kurien,nikhil kurien,buou kurien,36
+884,mariyam,na,paul,mariyam paul,peter,36
+885,umang,udau,gokani,umang udau gokani,uday vajubhai gokani,36
+886,jakshith,na,reddy,jakshith reddy,a srilatha reddy,36
+887,vivek,na,kumar,vivek kumar,nakul prasad yadav,36
+888,samhitha,shetty,a,samhitha shetty a,shreyas,36
+889,bachana,na,mandal,bachana mandal,prahlad,37
+890,nandini,na,sriram,nandini sriram,sriram,37
+891,nirada,na,pv,nirada pv,vijay,37
+892,atul,na,bhansali,atul bhansali,rajendra bansali,37
+893,chandni,na,bhansali,chandni bhansali,atul bhansali,37
+894,na,na,na,geetha v p manohar,v p manohar,37
+895,rathnakar,na,reddy,rathnakar reddy,t vijay kumar reddy,37
+896,bv,na,shobha,bv shobha,rathnakar reddy,37
+897,vishnu,singh,rawal,vishnu singh rawal,vimal deve singh,37
+898,meena,m,sancheti,meena m sancheti,milapchand sancheti,37
+899,anil,m,sancheti,anil m sancheti,milapchand sancheti,37
+900,vinod,mohan,lahori,vinod mohan lahori,mohan rihoomal,37
+901,mala,na,kanuga,mala kanuga,vinod mohan,37
+902,sanjeev,na,kumar,sanjeev kumar,ramaiah,37
+903,kanta,sunder,das,kanta sunder das,sunder das,37
+904,pooja,ashok,sachdev,pooja ashok sachdev,ashok kumar sachdev,37
+905,abdul,na,sattar,abdul sattar,yousuf sait,37
+906,diya,na,nanjapa,diya nanjapa,duleep nanjapa,37
+907,n,diraga,nanjapa,n diraga nanjapa,duleep nanjappa,37
+908,g,m,govind,g m govind,p k mukundan,37
+909,mala,na,govind,mala govind,g m govind,37
+910,anand,na,govind,anand govind,g m govind,37
+911,mecheri,ambika,govind,mecheri ambika govind,g m govind,37
+912,anwar,na,nawab,anwar nawab,justice ak,37
+913,shaziah,na,nawab,shaziah nawab,anwar nawab,38
+914,sachin,na,prathaban,sachin prathaban,prathaban,38
+915,kasturi,na,jayant,kasturi jayant,late c madhava,38
+916,p,seetha,vijay,p seetha vijay,p p vijay,38
+917,surabhi,na,tomar,surabhi tomar,vinit bhansali,38
+918,nara,na,bahadur,nara bahadur,jai bahadur,39
+919,jogadevi,na,na,jogadevi,narabahadur,39
+920,sunita,nar,bahadur,sunita nar bahadur,narbhadur,39
+921,roopa,na,na,roopa,babu rao,39
+922,rohit,na,gupta,rohit gupta,vinod kumar gupta,39
+923,vincent,paul,t,vincent paul t,p thririyanadan,39
+924,vivek,kumar,gupta,vivek kumar gupta,vinodh kumar gupta,39
+925,sabina,na,gupta,sabina gupta,vivek kumar gupta,39
+926,sabrina,na,aggarwal,sabrina aggarwal,gautam aggarwal,39
+927,gautam,na,aggarwal,gautam aggarwal,ravinder kumar,39
+928,ravindran,na,na,ravindran,srinivasan,39
+929,viayalakshmi,na,na,viayalakshmi,ravindran,39
+930,tv,srinivas,murthy,tv srinivas murthy,k t venkatesh murthy,39
+931,s,na,premalatha,s premalatha,kt venkatesh,39
+932,na,na,na,t s arvind kumar,t v srinivasamurthy,39
+933,ta,na,nagashwetha,ta nagashwetha,t r arivind kumar,39
+934,karishma,teresa,manuel,karishma teresa manuel,bernard f,39
+935,joseph,na,phansik,joseph phansik,phansik,39
+936,jayashree,na,srinivas,jayashree srinivas,h s srinivas,39
+937,juventius,na,andrade,juventius andrade,john andrade,39
+938,beebi,na,mammen,beebi mammen,late k c mammen,39
+939,jacob,na,mammen,jacob mammen,late k c mammen,39
+940,roy,na,mammen,roy mammen,late k c mammen,39
+941,bharati,na,govindraj,bharati govindraj,govindraj b k,39
+942,shashank,na,govindraj,shashank govindraj,govindraj,39
+943,chitra,na,govindraj,chitra govindraj,shashank govindraj,39
+944,keshav,na,pokhrel,keshav pokhrel,jageshorpokhrel,39
+945,philip,na,samuel,philip samuel,jagannath,39
+946,krishnarao,mane,r,krishnarao mane r,ram rao mane k,39
+947,kalpana,na,mane,kalpana mane,krishnarao mane r,39
+948,karthik,na,mane,karthik mane,krishna rao mane r,40
+949,gowri,na,mane,gowri mane,anish sadananda,40
+950,ranjit,george,jacob,ranjit george jacob,k j george,40
+951,eliabeth,na,jacob,eliabeth jacob,r g jacob,40
+952,sandeep,na,maini,sandeep maini,s k maini,40
+953,sanjeev,na,na,sanjeev,bhimsen,40
+954,sadhana,na,na,sadhana,sanjeev,40
+955,sowmya,na,na,sowmya,sanjeev,40
+956,homai,na,na,homai,furdoon,40
+957,ks,na,ramaswamy,ks ramaswamy,sabba rao,40
+958,susmitha,na,na,susmitha,ks ramaswamy,40
+959,ashish,na,ramaswamy,ashish ramaswamy,k s ramaswamy,40
+960,purushotham,na,dadlani,purushotham dadlani,rajumala,40
+961,jayanthi,na,dadlani,jayanthi dadlani,purushotham,40
+962,suresh,p,dadiani,suresh p dadiani,purushotham das,40
+963,sanjay,na,khandwala,sanjay khandwala,ishwarlal khandwala,40
+964,ranjan,s,khandwala,ranjan s khandwala,sanjay khandwala,40
+965,anitha,na,suresh,anitha suresh,suresh,40
+966,inchara,na,suresh,inchara suresh,suresh,40
+967,parula,na,jain,parula jain,suresh kumar jain,40
+968,shantha,na,mammen,shantha mammen,k o mammen,40
+969,m,na,gandhi,m gandhi,mv subba reddy,40
+970,sumana,na,na,sumana,vijaya narasimhan,40
+971,manamel,na,philip,manamel philip,shaji philip,40
+972,sanjana,na,aranha,sanjana aranha,naveen j aranha,40
+973,nithish,n,gowda,nithish n gowda,ninge gowda,40
+974,vikrant,na,maini,vikrant maini,sandeep kumar,40
+975,sahil,na,sanjeev,sahil sanjeev,sanjeev,41
+976,tejas,na,m,tejas m,muralidhara,42
+977,melwil,na,vas,melwil vas,william vas,42
+978,sateja,na,joshi,sateja joshi,rohan joshi,42
+979,ramya,na,chandrasekhar,ramya chandrasekhar,chandrasekhar,42
+980,gautham,na,krishnan,gautham krishnan,natarajan krishnan,42
+981,nalini,na,sanghvi,nalini sanghvi,hemali sanghvi,42
+982,sandhya,na,paniker,sandhya paniker,dhiren paniker,42
+983,smitha,na,rao,smitha rao,ramakrishna rao,42
+984,tarun,na,singh,tarun singh,leena singh,42
+985,ravi,na,narayan,ravi narayan,narayan iyengar,42
+986,dilip,gopal,sakhrani,dilip gopal sakhrani,gopal kishinchand,42
+987,vishal,na,rao,vishal rao,karan rao,42
+988,raj,na,golcha,raj golcha,omprakash,42
+989,anisha,anna,varghese,anisha anna varghese,colonel varghese,42
+990,manju,na,ravi,manju ravi,ravi narayan,42
+991,k,b,muthanna,k b muthanna,kk bopanna,42
+992,tarun,na,mammen,tarun mammen,roy mammen,42
+993,sandhya,na,subramanyam,sandhya subramanyam,ananth,42
+994,kb,na,mandanna,kb mandanna,kk bopanna,42
+995,miriam,na,mammen,miriam mammen,roy mammen,42
+996,aaliya,na,na,aaliya,nazir hussain,42
